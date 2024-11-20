@@ -1,4 +1,4 @@
-# silver-lamp
+# music1950-2019
 Music data preprocessing, analysis and recommendation based on the available dataset
 
 This project is a continuation of Project 1 in DATA 601, where we had to explore the dataset freely.
